@@ -1,0 +1,48 @@
+<acceptance-test-run title="Second negative scenario" name="secondNegativeScenario" steps="7" successful="7" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="16229" timestamp="2020-04-13T22:48:25.057+03:00">
+  <user-story id="AuthRegTest" name="Auth reg test" path=""/>
+  <tags>
+    <tag name="Auth reg test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="9505">
+    <screenshots>
+      <screenshot image="b4436f3dab5c134d6441febeebfae5c7_NONE.png"/>
+    </screenshots>
+    <description>Is on auth page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1559">
+    <screenshots>
+      <screenshot image="6e14c8bbfdfd89f3d3ebc37e7b573b1c_NONE.png"/>
+    </screenshots>
+    <description>Click on button: &lt;span class=&apos;step-parameter&apos;&gt;Registration&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1164">
+    <screenshots>
+      <screenshot image="aa2e6be0c3c6006162b329fe3cb0feac_NONE.png"/>
+    </screenshots>
+    <description>Set an email: &lt;span class=&apos;step-parameter&apos;&gt;abc&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1305">
+    <screenshots>
+      <screenshot image="c94e94fd952777900819e45221b67744_NONE.png"/>
+    </screenshots>
+    <description>Set password: &lt;span class=&apos;step-parameter&apos;&gt;password&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="852">
+    <screenshots>
+      <screenshot image="c94e94fd952777900819e45221b67744_NONE.png"/>
+    </screenshots>
+    <description>Is enter button enabled</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1156">
+    <screenshots>
+      <screenshot image="856b4392344ac38d37d74672b3dbc004_NONE.png"/>
+    </screenshots>
+    <description>Click on button: &lt;span class=&apos;step-parameter&apos;&gt;Enter&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="655">
+    <screenshots>
+      <screenshot image="c0539531848669f2f88c9ece183ef8b5_NONE.png"/>
+    </screenshots>
+    <description>Pop up is shown: &lt;span class=&apos;step-parameter&apos;&gt;incorrect email&lt;/span&gt;</description>
+  </test-step>
+</acceptance-test-run>

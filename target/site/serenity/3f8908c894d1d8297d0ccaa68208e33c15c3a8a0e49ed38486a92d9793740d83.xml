@@ -1,0 +1,36 @@
+<acceptance-test-run title="First positive" name="firstPositive" steps="5" successful="5" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="15595" timestamp="2020-04-13T22:48:08.636+03:00">
+  <user-story id="AuthRegTest" name="Auth reg test" path=""/>
+  <tags>
+    <tag name="Auth reg test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="10409">
+    <screenshots>
+      <screenshot image="b4436f3dab5c134d6441febeebfae5c7_NONE.png"/>
+    </screenshots>
+    <description>Is on auth page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="2480">
+    <screenshots>
+      <screenshot image="6e14c8bbfdfd89f3d3ebc37e7b573b1c_NONE.png"/>
+    </screenshots>
+    <description>Click on button: &lt;span class=&apos;step-parameter&apos;&gt;Registration&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1062">
+    <screenshots>
+      <screenshot image="b38a980778d943cecca57a91f101a520_NONE.png"/>
+    </screenshots>
+    <description>Set an email: &lt;span class=&apos;step-parameter&apos;&gt;fb71e846@mail.ru&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1020">
+    <screenshots>
+      <screenshot image="ba87185aebef92f73dfafbd156b4eec8_NONE.png"/>
+    </screenshots>
+    <description>Set password: &lt;span class=&apos;step-parameter&apos;&gt;c5eef111&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="546">
+    <screenshots>
+      <screenshot image="6444872284fabf190445aea3d3bf626c_NONE.png"/>
+    </screenshots>
+    <description>Is enter button enabled</description>
+  </test-step>
+</acceptance-test-run>

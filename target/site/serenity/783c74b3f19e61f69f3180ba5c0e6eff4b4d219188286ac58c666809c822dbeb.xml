@@ -1,0 +1,30 @@
+<acceptance-test-run title="First negative scenario" name="firstNegativeScenario" steps="4" successful="4" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="10978" timestamp="2020-04-13T22:48:57.031+03:00">
+  <user-story id="AuthRegTest" name="Auth reg test" path=""/>
+  <tags>
+    <tag name="Auth reg test" type="story"/>
+  </tags>
+  <test-step result="SUCCESS" duration="8943">
+    <screenshots>
+      <screenshot image="b4436f3dab5c134d6441febeebfae5c7_NONE.png"/>
+    </screenshots>
+    <description>Is on auth page</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="1006">
+    <screenshots>
+      <screenshot image="6e14c8bbfdfd89f3d3ebc37e7b573b1c_NONE.png"/>
+    </screenshots>
+    <description>Click on button: &lt;span class=&apos;step-parameter&apos;&gt;Registration&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="616">
+    <screenshots>
+      <screenshot image="46b3a1e7e41079739afe7c5f92528fe6_NONE.png"/>
+    </screenshots>
+    <description>Set an email: &lt;span class=&apos;step-parameter&apos;&gt;abc@mail.ru&lt;/span&gt;</description>
+  </test-step>
+  <test-step result="SUCCESS" duration="407">
+    <screenshots>
+      <screenshot image="46b3a1e7e41079739afe7c5f92528fe6_NONE.png"/>
+    </screenshots>
+    <description>Is enter button disabled</description>
+  </test-step>
+</acceptance-test-run>
